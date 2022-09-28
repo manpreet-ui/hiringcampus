@@ -1,0 +1,59 @@
+body{
+background-color: #000000;
+}
+.navbar {
+  padding: 0 0 4.5rem;
+
+}
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar-item {
+  padding: 0 1%;
+
+}
+
+.container-fluid {
+  background-color: #000000;
+  padding: 3% 15% 7%;
+}
+
+
+h1 {
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #A9A9A9;
+}
+
+.Sign-button {
+  margin: 5% 3% 5% 3%;
+}
+
+.navbar-collapse {
+ margin-left: 40%;
+}
+
+#footer {
+  text-align: center;
+}
+
+.footer-icon {
+  color: #fff;
+  margin: 20px 10px;
+}
+.card {
+  text-align: center;
+  background-color: #fff;
+}
+
+h3 {
+  color: #000000;
+}
+label {
+  color: #000000;
+}
+p {
+  color: #fff;
+}
